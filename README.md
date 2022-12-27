@@ -1,1 +1,1 @@
-# RNN
+# simple-RNN
